@@ -1,4 +1,4 @@
-(defproject net.boostrot/pso "0.0.1-SNAPSHOT"
+(defproject net.boostrot/pso "0.1.0"
   :description "Basic Particle Swarm Optimization Library"
   :url "http://github.com/johnchapin/pso"
   :license {:name "Eclipse Public License"
